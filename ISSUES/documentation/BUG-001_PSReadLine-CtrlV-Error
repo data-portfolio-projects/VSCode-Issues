@@ -1,6 +1,6 @@
 # Bug: PSReadLine - Ctrl+V Paste Function Error
 
-## Description:
+Description:
 When attempting to paste using `Ctrl+V` in the PowerShell terminal, the following error occurs:
 
 Oops, something went wrong. Please report this bug with the details below.
